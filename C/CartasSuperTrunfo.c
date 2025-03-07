@@ -2,6 +2,7 @@
 #include <string.h>
 
 int main(){
+    printf("Novo Commit");
     //  Variaveis
     char estadoC1, estadoC2;
     char codigoC1[4], codigoC2[4];
